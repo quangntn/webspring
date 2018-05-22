@@ -1,2 +1,3 @@
 ﻿đến con khỉ cũng hiểu được lệnh của git.
 add: Đăng ký thay đổi trong index
+Pull: lấy nội dung từ remote repository về.
