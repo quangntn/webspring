@@ -1,2 +1,3 @@
 ﻿đến con khỉ cũng hiểu được lệnh của git.
 add: Đăng ký thay đổi trong index
+commit: lưu trạng thái của git.
